@@ -4,7 +4,7 @@
 資料集網址：[https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education)
 
 Question:
-1.性別分布情形
+1.性別分布情形\n
 2.男女比
 3.經濟條件的分布情形
 4.不同經濟條件(富有與貧窮)對線上教育適應度的影響
