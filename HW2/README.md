@@ -5,7 +5,7 @@ pip install webdriver_manager
 pip install beautifulsoup4
 pip install requests
 
-/h1使用requests
+##A使用requests
 main_requests.py 為執行檔案，requests_books.csv為爬取的內容。
 
 /h1使用selenium
